@@ -1,0 +1,13 @@
+Szállító
+Raktáros
+Értékesítési menedzser
+HR vezető
+Pénzügyi elemző
+IT rendszergazda
+Marketing menedzser
+Ügyfélszolgálati munkatárs
+Projektmenedzser
+Könyvelő
+Logisztikai koordinátor
+Műszaki támogatás specialistája
+Adatbázis adminisztrátor

@@ -1,0 +1,20 @@
+Kossuth utca 15.
+Ady Endre utca 30.
+Szabadság tér 10.
+Deák Ferenc utca 5.
+Bajcsy-Zsilinszky út 18.
+Jókai utca 3.
+Arany János utca 12.
+Móricz Zsigmond út 25.
+Fő út 7.
+Szent István tér 6.
+Dózsa György út 14.
+Bartók Béla utca 22.
+Rákóczi út 9.
+Berzsenyi utca 2.
+Teleki tér 11.
+Károly körút 17.
+Eötvös utca 4.
+Hősök tere 13.
+Széchenyi utca 8.
+Árpád út 16.

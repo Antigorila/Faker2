@@ -1,0 +1,10 @@
+Bankkártya
+Készpénz
+PayPal
+Átutalás
+Apple Pay
+Google Pay
+Bitcoin
+Szép-kártya
+NFC fizetés
+Revolut

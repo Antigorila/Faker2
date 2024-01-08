@@ -1,0 +1,10 @@
+kep1.png
+profilkep.png
+termekfoto.png
+hatterkep.jpg
+logo.gif
+ikon.bmp
+banner.webp
+hatter.svg
+user-avatar.jpeg
+thumbnail.heic
